@@ -7,6 +7,7 @@ void somefunc {
 }
 
 int main() {
+// some another comment
 	std::cout << "Hello!" << std::endl;
 
 	return 0;
