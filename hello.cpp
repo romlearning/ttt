@@ -1,5 +1,7 @@
 #include <iostream>
 
+// some comment
+
 void somefunc {
 	std::cout << "somefunc()" << std::endl;
 }
