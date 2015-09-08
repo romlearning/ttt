@@ -8,6 +8,7 @@ void somefunc {
 
 int main() {
 	std::cout << "Hello!" << std::endl;
+	std::cout << "Secfile branch" << std::endl;
 
 	return 0;
 }
