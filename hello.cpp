@@ -4,6 +4,7 @@
 
 void somefunc {
 	std::cout << "somefunc()" << std::endl;
+// comment in somefunc
 }
 
 int main() {
